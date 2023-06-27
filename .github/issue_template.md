@@ -1,15 +1,15 @@
-## what will you do
+## 何をするか
 
-- (describe task outline)
+- （タスクの概要を記載）
 
-## why
+## なぜするか
 
-- (describe the necessity of the task)
+- （タスクの必要性を記載）
 
-## Definition of Done
+## 完了の定義
 
-- [ ] (Describe the definition of task completion)
+- [ ] （タスクの完了の定義を記載）
 
-## remarks
+## 備考
 
-- (If there are specifications etc., write them down.)
+- （仕様書などがある場合は記載）

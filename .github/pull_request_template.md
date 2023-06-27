@@ -1,31 +1,31 @@
-## 🎫 Link to ticket
+## 🎫 チケットへのリンク
 
-<!-- Please include Backlog and Issue links 👍 -->
+<!-- Backlogのリンク、Issueのリンクの記載をお願いします👍 -->
 
-## 🖼️ Background
+## 🖼️ 背景
 
-<!-- Please briefly explain why this change is necessary so that reviewers can understand 👍 -->
+<!-- なぜこの変更が必要なのか、レビュワーが分かるように簡単に記載お願いします👍 -->
 
-## 🎉 what i did
+## 🎉 やったこと
 
-<!-- Briefly describe what you did in this PR👍 -->
+<!-- このPRでやったことを簡単に記載お願いします👍 -->
 
-## ✅ How to check operation
+## ✅ 動作確認方法
 
-<!-- Please describe how to check the contents of this PR 👍 -->
+<!-- このPRの内容を確認する方法を記載お願いします👍 -->
 
-- Pass [ ] CI
+- [ ] CI を Pass すること
 
-## 📛 Review comment badge
+## 📛 レビューコメントのバッジ
 
-<!-- When commenting, use the badges below to help clarify your intent. -->
-<!-- Reference article -->
-<!-- See https://ikasamak503.hatenablog.com/entry/review-label-with-github-saved-replies in the "extra" section -->
+<!-- コメントの際は、下記のバッジを使うと意図が分かりやすくなります。 -->
+<!-- 参考記事 -->
+<!-- https://ikasamak503.hatenablog.com/entry/review-label-with-github-saved-replies の、「おまけ」に説明があります -->
 
-| label | image | syntax |
-| ---------- | -------------------------------------- --------------------------- | --------------------------------------------- |
-must | ![badge](https://img.shields.io/badge/review-must-red.svg) | `![badge](https://img.shields.io/badge/review-must -red.svg)` |
-imo | ![badge](https://img.shields.io/badge/review-imo-orange.svg) | `![badge](https://img.shields.io/badge/review-imo -orange.svg)` |
-ask | ![badge](https://img.shields.io/badge/review-ask-blue.svg) | `![badge](https://img.shields.io/badge/review-ask -blue.svg)` |
-nit pick | ![badge](https://img.shields.io/badge/review-nits-green.svg) | ` ![badge](https://img.shields.io/badge/review- nits-green.svg)` |
-| suggestion | ![badge](https://img.shields.io/badge/review-suggestion-blue.svg) | `![badge](https://img.shields.io/badge/review-suggestion -blue.svg)` |
+| ラベル     | 画像                                                              | 構文                                                                |
+| ---------- | ----------------------------------------------------------------- | ------------------------------------------------------------------- |
+| must       | ![badge](https://img.shields.io/badge/review-must-red.svg)        | `![badge](https://img.shields.io/badge/review-must-red.svg)`        |
+| imo        | ![badge](https://img.shields.io/badge/review-imo-orange.svg)      | `![badge](https://img.shields.io/badge/review-imo-orange.svg)`      |
+| ask        | ![badge](https://img.shields.io/badge/review-ask-blue.svg)        | `![badge](https://img.shields.io/badge/review-ask-blue.svg)`        |
+| nit pick   | ![badge](https://img.shields.io/badge/review-nits-green.svg)      | ` ![badge](https://img.shields.io/badge/review-nits-green.svg)`     |
+| suggestion | ![badge](https://img.shields.io/badge/review-suggestion-blue.svg) | `![badge](https://img.shields.io/badge/review-suggestion-blue.svg)` |
